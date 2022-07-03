@@ -417,6 +417,10 @@ body {
   right: -14px;
 }
 
+.swiper-slide {
+  padding: 5rem 2.25rem 0rem 0.9375rem;
+}
+
 @media screen and (min-width: 600px) {
   .menu-categories ul {
     -webkit-box-orient: horizontal;
